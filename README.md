@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [File_Share](https://github.com/priyanshu68/File_share)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **development and Valorant**
 
